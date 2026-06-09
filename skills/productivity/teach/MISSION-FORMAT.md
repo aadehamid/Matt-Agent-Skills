@@ -1,6 +1,6 @@
 # MISSION.md Format
 
-`MISSION.md` lives at the workspace root. It captures the _reason_ the user is learning this topic. Every teaching decision — what to teach next, which resources to surface, which exercises to design — should trace back to this document.
+`MISSION.md` lives in the teaching home (the workspace folder itself, or the dedicated `Teaching/` subfolder when the workspace already holds the user's own content). It captures the _reason_ the user is learning this topic. Every teaching decision — what to teach next, which resources to surface, which exercises to design — should trace back to this document.
 
 ## Template
 
